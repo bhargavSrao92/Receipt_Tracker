@@ -1,0 +1,67 @@
+
+### Privacy Nutrition Label (App Store Connect → App Privacy)
+
+**Does the app collect data?**
+- **No.** The app does **not collect data** and does not send data to any server.
+
+**Tracking**
+- **No tracking.**
+
+**Data Linked to You**
+- **None.**
+
+**Data Not Linked to You**
+- **None.**
+
+### Data used by the app (local only)
+The app processes and stores the following **on the device only**:
+- Receipt images (camera / imported photos / imported files)
+- OCR text extracted from receipts
+- Receipt metadata you edit (merchant, date, amount, category, notes, etc.)
+- Exported files (CSV/XLSX/PDF) saved to the app’s cache for sharing
+
+### Required permission usage text (Info.plist)
+These already exist in the project; confirm they match your branding:
+- **Camera**: used to scan receipts.
+- **Photo Library**: used to import receipt images.
+- **Face ID / Touch ID**: optional lock/unlock feature.
+
+### Third‑party SDKs
+- **None.** (No analytics, ads, tracking, crash reporting.)
+
+---
+
+## Privacy Policy (app listing text)
+
+You can use this as your **Privacy Policy** content (host it on a URL for App Store submission).
+
+### Privacy Policy — Receipt Manager for Business
+
+**Last updated:** 2026‑06‑27
+
+Receipt Manager for Business (“the App”) is designed to work **offline**. We do not run servers for the App and we do not collect, transmit, sell, or share your personal data.
+
+### Data the App processes (on device only)
+The App may access and store, on your device:
+- Receipt photos you scan or import
+- Text extracted from receipts using on‑device OCR
+- Details you enter or edit (merchant, date, amount, category, notes, etc.)
+- Export files you generate (CSV/XLSX/PDF) for sharing
+
+### Data collection
+We do **not** collect any data from you. The App does not include analytics, advertising SDKs, or tracking.
+
+### Sharing & exports
+When you export and share a file, iOS will display the system Share Sheet. Any sharing occurs only through services you select (e.g., Mail, Files, WhatsApp). We do not receive a copy of the exported file.
+
+### Device permissions
+- **Camera**: used only to scan receipts.
+- **Photos**: used only to import receipt images.
+- **Face ID / Touch ID / Passcode**: used only if you enable app lock.
+
+### Security
+All receipts are stored locally in the app’s database on your device. You can delete receipts at any time.
+
+### Contact
+If you have questions, contact: **<Bhargav2014@gmail.com>**
+
