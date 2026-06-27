@@ -1,0 +1,17 @@
+# Support — Receipt Manager for Business
+If you need help, contact: **<Bhargav2014@gmail.com>**
+## FAQ
+### How do I scan a receipt?
+Open **Scan** → **Scan Receipt** (or import from Photos/Files) → review details → **Save**.
+### Why can’t I see my receipt image?
+Make sure you scanned/imported and then tapped **Save**. The saved receipt will show its image in **Receipts**.
+### Exports are not opening on Simulator
+On a real device, sharing/export works best. Simulator sharing apps can be limited.
+### How do I edit or delete a receipt?
+Open **Receipts** → select a receipt → use **Edit** or **Delete**.
+You can also swipe-to-delete in the list.
+## Troubleshooting
+- Restart the app if camera/import permissions were changed.
+- Ensure you have at least one saved receipt before exporting.
+## Version
+Current app version: **1.0**
