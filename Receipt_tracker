@@ -1,0 +1,17 @@
+# Receipt Manager for Business
+Scan receipts in seconds, search instantly, and export reports for accounting—fully offline.
+## Key features
+- **Scan + OCR**: Capture receipts or import images/files and extract text automatically.
+- **Organize**: Save receipts with images, amounts, merchants, categories, and notes.
+- **Search**: Find receipts by merchant, category, payment method, or OCR text.
+- **Edit & Delete**: Correct details anytime and remove old receipts.
+- **Export**: Generate **CSV**, **Excel (XLSX)**, and **PDF** reports and share them.
+## Privacy
+- **No accounts**
+- **No tracking**
+- **No ads**
+- **Works offline** (data stays on your device)
+## Support
+Need help? Visit the Support page: `./support/`
+## Privacy Policy
+Read the Privacy Policy: `./privacy/`
